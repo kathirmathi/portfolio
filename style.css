@@ -1,0 +1,64 @@
+*
+{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color:antiquewhite;
+    color: #333;
+}
+nav{
+    background-color: white;
+    padding: 10px 0;
+}
+.navbar{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.navbar li{
+    display: inline;
+    margin: 15px;
+}
+.navbar li a{
+    color: darkmagenta;
+    text-decoration: none;
+    font-size: 1.2em;
+}
+.navbar li a:hover{
+    text-decoration: underline;
+}
+header{
+    text-align: center;
+    color: darkmagenta;
+    padding: 20px;
+    background-color: darkmagenta;
+}
+.profile-pic{
+    width:150px;
+    border-width:10 px;
+    border-color: #333;
+    
+}
+div{
+    text-align: center;
+    
+}
+.about,.education,.skills,.experience,.contact{
+    margin-top: 20px;
+    padding: 20px;
+    background-color: darkmagenta;
+    border-radius: 8px;
+}
+
+h3{
+    color: white;
+}
+a{
+    color:lightblue ;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+    color: blueviolet;
+}
